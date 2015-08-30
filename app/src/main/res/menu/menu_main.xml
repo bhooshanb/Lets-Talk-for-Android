@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	  xmlns:app="http://schemas.android.com/apk/res-auto"
+	  xmlns:tools="http://schemas.android.com/tools"
+	  tools:context=".Main">
+	<item
+		android:id="@+id/action_permission_m_settings"
+		android:orderInCategory="101"
+		android:title="Permission on M"
+		android:icon="@android:drawable/ic_menu_preferences"
+		app:showAsAction="always"/>
+	<item android:id="@+id/help_menu"
+		  android:title="Help"
+		  android:icon="@android:drawable/ic_menu_help"
+		  android:orderInCategory="100"
+		  app:showAsAction="always"/>
+
+</menu>
