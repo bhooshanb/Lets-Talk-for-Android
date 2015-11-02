@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">Let\'s Talk</string>
+    <string name="mainText">Hello!\n\nThe App requires permission to \'Draw layout over other apps\'.\nCheck the permissions for this App.\n\nOpen the Heads below!</string>
+	<string name="title_activity_help">Help</string>
+    <string name="help_text">Are you tired of typing?\nFrustrated about typos &amp; autocorrects?\nNo worries!\nLet\'s Just Talk!\nTap the Mic button, Speak whatever you wanna type! Select appropriate recognized text! Send wherever you want! Simple, right?</string>
+	<string name="hello_world">Hello world!</string>
+	<string name="action_settings">Settings</string>
+	<string name="admob_id">pub-2037193180985574</string>
+	<string name="banner_ad_unit_id">ca-app-pub-2037193180985574/4115835302</string>
+</resources>

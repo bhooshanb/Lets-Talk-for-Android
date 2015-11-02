@@ -1,0 +1,44 @@
+{
+  "project_info": {
+	"project_id": "lets-talk-test",
+	"project_number": "701458853463",
+	"name": "Lets Talk Test"
+  },
+  "client": [
+	{
+	  "client_info": {
+		"client_id": "android:in.silverstonelabs.letstalk",
+		"client_type": 1,
+		"android_client_info": {
+		  "package_name": "in.silverstonelabs.letstalk"
+		}
+	  },
+	  "oauth_client": [],
+	  "api_key": [],
+	  "services": {
+		"analytics_service": {
+		  "status": 2,
+		  "analytics_property": {
+			"tracking_id": "UA-58109472-5"
+		  }
+		},
+		"cloud_messaging_service": {
+		  "status": 1,
+		  "apns_config": []
+		},
+		"appinvite_service": {
+		  "status": 1,
+		  "other_platform_oauth_client": []
+		},
+		"google_signin_service": {
+		  "status": 1
+		},
+		"ads_service": {
+		  "status": 1
+		}
+	  }
+	}
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
