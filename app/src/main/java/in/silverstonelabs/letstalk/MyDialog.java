@@ -167,7 +167,7 @@ public class MyDialog extends AppCompatActivity implements View.OnClickListener 
             ActivityManager.RunningTaskInfo foregroundTaskInfo = mActivityManager.getRunningTasks(2).get(1);
             newPackageName = foregroundTaskInfo.topActivity.getPackageName();
         }
-        Toast.makeText(this, newPackageName, Toast.LENGTH_SHORT).show();
+        //Toast.makeText(this, newPackageName, Toast.LENGTH_SHORT).show();
     }
 
 
